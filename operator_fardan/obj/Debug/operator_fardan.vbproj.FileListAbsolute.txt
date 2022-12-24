@@ -1,0 +1,10 @@
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\operator_fardan\operator_fardan\bin\Debug\operator_fardan.exe.config
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\operator_fardan\operator_fardan\bin\Debug\operator_fardan.exe
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\operator_fardan\operator_fardan\bin\Debug\operator_fardan.pdb
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\operator_fardan\operator_fardan\bin\Debug\operator_fardan.xml
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\operator_fardan\operator_fardan\obj\Debug\operator_fardan.Form1.resources
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\operator_fardan\operator_fardan\obj\Debug\operator_fardan.Resources.resources
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\operator_fardan\operator_fardan\obj\Debug\operator_fardan.vbproj.GenerateResource.Cache
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\operator_fardan\operator_fardan\obj\Debug\operator_fardan.exe
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\operator_fardan\operator_fardan\obj\Debug\operator_fardan.xml
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\operator_fardan\operator_fardan\obj\Debug\operator_fardan.pdb
