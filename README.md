@@ -11,7 +11,7 @@ Repository ini berisi program perhitungan aritmatika dasar (**+ , - , × , ÷**)
 
 ## 📌 Preview Program
 
-![Operator Form](https://github.com/fardan23/biodata_form2/blob/main/biodataku2.png?raw=true)
+![Operator Form](https://github.com/fardan23/biodata_form2/blob/main/operator-form.png?raw=true)
 
 ## 📌 Cara Menjalankan Program
 1. **Clone repository ini**
